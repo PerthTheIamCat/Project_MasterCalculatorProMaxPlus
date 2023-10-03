@@ -1,0 +1,10 @@
+13/03/2566 version: 0.1.0  : New Program ! >> Basic Calculator & New function >> History.
+14/03/2566 version: 0.1.1  : Fix bug in Basic Calculater and have some error detection.
+15/03/2566 version: 0.2.0  : New Function! >> Chang Theme Color : Light / Dark Mode.
+15/03/2566 Version: 0.2.1  : Hot Fix ! HistoryButton Glitch - Duplicate Number Glitch & Fix other bugs & Show more Error Message.
+15/03/2566 Version: 0.3.0  : New Program!  >> BMI Calculator.
+15/03/2566 Version; 0.3.1  : Update ! >> Add "About Button".
+01/04/2566 Version: 0.4.1  : New Program ! >> Area Calculator: Can find area of Squre & Rectangle & Triangle & circle.
+02/04/2566 Version: 0.4.2  : Update ! >> Improve performance for Area Calculator & bug fixed.
+02/04/2566 Version: 0.5.1  : New Program ! >> Binary Converter.
+03/04/2566 Version: 0.5.2  : Fix more bug and Improve Help Button.

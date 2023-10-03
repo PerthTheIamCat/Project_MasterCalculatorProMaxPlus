@@ -1,0 +1,8 @@
+Error : ERR-001 - "Sorry I can't do that! \nFor -BETA-TEST- I can calculate only one operation"
+Error : ERR-002 - "There Nothing to Delete!"
+Error : ERR-003 - "Please Enter some number before add -OPERATOR-"
+Error : ERR-004 - "Please Enter Only Interger Number Or Decimal Number Only"
+Error : ERR-005 - "Please Enter Height and Weight in Integer or Decimal Number"
+Error : ERR-006 - "Binary Converter can accept Only Integer !!"
+Error : ERR-007 - "Wrong base Integer !! Please Enter integer in correct base"
+Error : ERR-008 - "Can't divide by 0"

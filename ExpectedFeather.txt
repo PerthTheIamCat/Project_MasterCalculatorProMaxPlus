@@ -1,0 +1,11 @@
+| + | = Finished
+| - | = In progress
+| > | = Cancle
+
+\/ Feather \/            | Status |
+1.Calculater             |   +    |
+2.BMI Calculater         |   +    |
+3.Find Area App          |   +    | squre + | rec + | tri + | circle + |
+4.Byte Converter         |   >    | >> Cancle >>
+5.Master Binary Converter|   +    |
+6. >> Extra Game?        |   -    |
